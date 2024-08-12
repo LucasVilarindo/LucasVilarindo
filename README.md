@@ -8,7 +8,7 @@
 
 #### - 💻 Desenvolvedor Front-end
 #### - ✅ Formado em programador de sistemas, e montador e reparador de computador pelo senac
-#### - ✅ Formado em desenvolvimento Web Java, pelo Senac | Intituto Proa  
+#### - ✅ Formado em desenvolvimento Web Java, pelo Senac | Instituto Proa  
 #### - 🎓 Cursando ADS na Faculdade FAM
 
 &nbsp;

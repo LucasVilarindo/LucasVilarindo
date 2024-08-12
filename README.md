@@ -6,8 +6,9 @@
 
 <p align="left">Aos 19 anos, atualmente dedico meus estudos em Analise e desnvolvimentos de sistemas na Faculdade FAM, e curso Full-Stack no Instituto Proa, localizado no senac Lapa Tito. Há 4 anos foquei e me dedediquei aos estudos, me aprofundei na programação e desenvolvimento de software. </p>&nbsp;
 
-#### - 💻 Desenvolvedor FullStack
-#### - ✅ Formado em C#, e reparador de computador pelo senac
+#### - 💻 Desenvolvedor Front-end
+#### - ✅ Formado em programador de sistemas, e montador e reparador de computador pelo senac
+#### - ✅ Formado em desenvolvimento Web Java, pelo Senac | Intituto Proa  
 #### - 🎓 Cursando ADS na Faculdade FAM
 
 &nbsp;
